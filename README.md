@@ -8,6 +8,7 @@ https://github.com/vadimbykov0/movies-explorer-api
 
 ### Адрес домена сервера
 https://api.movies.vadimbykov.nomoredomainsrocks.ru
+
 Публичный IP 51.250.98.167
 
 ### Директории
