@@ -8,6 +8,7 @@ https://github.com/vadimbykov0/movies-explorer-api
 
 ### Адрес домена сервера
 https://api.movies.vadimbykov.nomoredomainsrocks.ru
+Публичный IP 51.250.98.167
 
 ### Директории
 `/routes` — папка с файлами роутера  
@@ -21,4 +22,4 @@ https://api.movies.vadimbykov.nomoredomainsrocks.ru
 `npm run dev` — запускает сервер с hot-reload
 
 ### Критерии диплома веб-разработчик:
-* https://code.s3.yandex.net/web-developer/static/new-program/web-diploma-criteria-2.0/index.html
+https://code.s3.yandex.net/web-developer/static/new-program/web-diploma-criteria-2.0/index.html
